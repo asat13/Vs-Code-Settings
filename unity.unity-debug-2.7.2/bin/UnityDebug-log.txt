@@ -1,0 +1,470 @@
+21:27:51.191573: Log
+---
+
+21:27:51.196575: UnityDebug
+21:27:51.201575: Running session
+21:27:51.210577: Constructing UnityDebugSession
+21:27:51.228581: Done constructing UnityDebugSession
+21:27:51.383617: Command: initialize: {
+  "clientID": "vscode",
+  "clientName": "Visual Studio Code",
+  "adapterID": "unity",
+  "pathFormat": "path",
+  "linesStartAt1": true,
+  "columnsStartAt1": true,
+  "supportsVariableType": true,
+  "supportsVariablePaging": true,
+  "supportsRunInTerminalRequest": true,
+  "locale": "en-us"
+}
+21:27:51.438629: Command: launch: {
+  "name": "Unity Editor",
+  "type": "unity",
+  "path": "/c:/ProjectRoberts/Game/Library/EditorInstance.json",
+  "request": "launch",
+  "__exceptionOptions": [
+    {
+      "path": [
+        {
+          "names": [
+            "System.Exception"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.SystemException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.ArithmeticException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.ArrayTypeMismatchException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.DivideByZeroException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.IndexOutOfRangeException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.InvalidCastException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.NullReferenceException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.OutOfMemoryException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.OverflowException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.StackOverflowException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.TypeInitializationException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    }
+  ],
+  "__sessionId": "1f083596-7bdf-48af-87f2-60c1906dcff1"
+}
+21:27:51.449631: UnityDebug: Attach: VSCodeDebug.Response ; {
+  "name": "Unity Editor",
+  "type": "unity",
+  "path": "/c:/ProjectRoberts/Game/Library/EditorInstance.json",
+  "request": "launch",
+  "__exceptionOptions": [
+    {
+      "path": [
+        {
+          "names": [
+            "System.Exception"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.SystemException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.ArithmeticException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.ArrayTypeMismatchException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.DivideByZeroException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.IndexOutOfRangeException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.InvalidCastException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.NullReferenceException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.OutOfMemoryException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.OverflowException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.StackOverflowException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    },
+    {
+      "path": [
+        {
+          "names": [
+            "System.TypeInitializationException"
+          ]
+        }
+      ],
+      "breakMode": "never"
+    }
+  ],
+  "__sessionId": "1f083596-7bdf-48af-87f2-60c1906dcff1"
+}
+21:27:51.460633: UnityDebug: SetExceptionBreakpoints: [
+  {
+    "path": [
+      {
+        "names": [
+          "System.Exception"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.SystemException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.ArithmeticException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.ArrayTypeMismatchException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.DivideByZeroException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.IndexOutOfRangeException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.InvalidCastException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.NullReferenceException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.OutOfMemoryException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.OverflowException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.StackOverflowException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  },
+  {
+    "path": [
+      {
+        "names": [
+          "System.TypeInitializationException"
+        ]
+      }
+    ],
+    "breakMode": "never"
+  }
+]
+21:27:51.485639: UnityDebug: Searching for Unity process 'Unity Editor'
+21:27:51.489640: Trying to find all Editor
+21:27:51.562657: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.565658: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.567658: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.569658: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.571659: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.573660: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.575660: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.577660: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.583662: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.586662: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.588663: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.590663: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.592664: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.594664: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.596665: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.599665: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.605666: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.607667: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.609667: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.611668: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.614668: Setting up multicast option: 225.0.0.222: 54997
+21:27:51.616669: Setting up multicast option: 225.0.0.222: 34997
+21:27:51.618669: Setting up multicast option: 225.0.0.222: 57997
+21:27:51.620670: Setting up multicast option: 225.0.0.222: 58997
+21:27:51.649676: Could not find the correct process name: Unity Editor
+21:27:51.651677: These are the one that could be found: 
+21:27:51.670681: UnityPlayerConnection is constructed
+21:27:51.676683: Known size of available Players: 0
+21:27:54.688002: New size of available Players: 0
+21:27:54.693003: Error while initializing usbmuxd
+21:27:54.695004: Could not find target name 'Unity Editor'.
+21:27:54.713008: Command: setBreakpoints: {
+  "source": {
+    "name": "UGUI_BlueprintCraftPanel.cs",
+    "path": "C:\\ProjectRoberts\\Game\\Assets\\UGUI_BlueprintCraftPanel.cs"
+  },
+  "lines": [
+    24
+  ],
+  "breakpoints": [
+    {
+      "line": 24
+    }
+  ],
+  "sourceModified": false
+}
+21:27:54.731005: Command: setBreakpoints: {
+  "source": {
+    "name": "UGUI_GameObjectPool.cs",
+    "path": "C:\\ProjectRoberts\\Game\\Assets\\Andre Working\\UGUI_GameObjectPool.cs"
+  },
+  "lines": [
+    45
+  ],
+  "breakpoints": [
+    {
+      "line": 45
+    }
+  ],
+  "sourceModified": false
+}
+21:27:54.734005: Command: disconnect: {
+  "restart": false
+}
+21:27:54.737014: UnityDebug: Disconnect: {
+  "restart": false
+}
+21:27:54.740006: UnityDebug: Disconnect: VSCodeDebug.Response
+21:27:54.744007: Session Terminated
